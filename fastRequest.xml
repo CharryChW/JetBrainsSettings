@@ -138,8 +138,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://192.168.2.153:9003/" />
-    <option name="enableEnv" value="algo153" />
+    <option name="domain" value="http://localhost:9000/" />
+    <option name="enableEnv" value="website" />
     <option name="enableProject" value="电机" />
     <option name="envList">
       <list>
@@ -155,20 +155,20 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="reqVo">
+            <entry key="repairRecord">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.szsh.smfd.algorithm.controller.AlgorTestController" />
-        <option name="method" value="calculate" />
-        <option name="methodDescription" value="线性拟合算法 判断数据有无增大趋势" />
+        <option name="className" value="com.szsh.sass.smfd.webiste.controller.RepairRecordController" />
+        <option name="method" value="getGroupLst" />
+        <option name="methodDescription" value="查询检修记录列表" />
         <option name="methodType" value="POST" />
-        <option name="module" value="smfd-algorithm-service" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="module" value="smfd-webiste-service" />
+        <option name="originUrl" value="/RepairRecordList/get-repair-lst" />
+        <option name="url" value="/RepairRecordList/get-repair-lst" />
       </ParamGroup>
     </option>
     <option name="projectList">
