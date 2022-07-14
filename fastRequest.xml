@@ -1,0 +1,182 @@
+<application>
+  <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="local" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="data" />
+                <option name="url" value="http://localhost:9102/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="edam" />
+                <option name="url" value="http://localhost:9101/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="website" />
+                <option name="url" value="http://localhost:9100/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="Algorithm" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="algo153" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="电机new" />
+        </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="local" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="data" />
+                <option name="url" value="http://localhost:9002/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="edam" />
+                <option name="url" value="http://localhost:9001/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="website" />
+                <option name="url" value="http://localhost:9000/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="Algorithm" />
+                <option name="url" value="http://localhost:9003/" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="algo153" />
+                <option name="url" value="http://192.168.2.153:9003/" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="电机" />
+        </NameGroup>
+      </list>
+    </option>
+    <option name="defaultDataMappingList">
+      <list>
+        <DataMapping>
+          <option name="type" value="byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="int" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Integer" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="char" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Character" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.math.BigDecimal" />
+          <option name="value" value="1" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="domain" value="http://192.168.2.153:9003/" />
+    <option name="enableEnv" value="algo153" />
+    <option name="enableProject" value="电机" />
+    <option name="envList">
+      <list>
+        <option value="local" />
+        <option value="data" />
+        <option value="edam" />
+        <option value="website" />
+        <option value="Algorithm" />
+        <option value="algo153" />
+      </list>
+    </option>
+    <option name="paramGroup">
+      <ParamGroup>
+        <option name="bodyParamMap">
+          <map>
+            <entry key="reqVo">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.szsh.smfd.algorithm.controller.AlgorTestController" />
+        <option name="method" value="calculate" />
+        <option name="methodDescription" value="线性拟合算法 判断数据有无增大趋势" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="smfd-algorithm-service" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
+      </ParamGroup>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="电机new" />
+        <option value="电机" />
+      </list>
+    </option>
+    <option name="randomStringLength" value="5" />
+  </component>
+</application>

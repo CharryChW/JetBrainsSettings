@@ -1,0 +1,106 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="455" />
+    <histories>
+      <item value="Spectrum" />
+      <item value="com" />
+      <item value="terms Of Service Url" />
+      <item value="accepts Profiles" />
+      <item value="enable" />
+      <item value="Error registering AppInfo mbean" />
+      <item value="is ignored, because it exists, maybe from xml file" />
+      <item value="gatesiteanony" />
+      <item value="Process terminated" />
+      <item value="信号长度" />
+      <item value="not found in resource path" />
+      <item value="central" />
+      <item value="Run Rate" />
+      <item value="Economic Time" />
+      <item value="Non Economic Time" />
+      <item value="select By Mange Object Id Latest 10" />
+      <item value="Null Pointer Exception" />
+      <item value="Fraction" />
+      <item value="patch Add Day Report" />
+      <item value="heck the manual that corresponds to your MySQL server version for the right syntax to use near '0.0)," />
+      <item value="instance" />
+      <item value="SMALLINT" />
+      <item value="AVG" />
+      <item value="get End Time Last By Status And Time" />
+      <item value="non Economic Time" />
+      <item value="economic Time" />
+      <item value="non Economic Duration" />
+      <item value="economic Duration" />
+      <item value="economic" />
+      <item value="duration Time" />
+      <item value="start Times" />
+      <item value="value" />
+      <item value="Run Status" />
+      <item value="status" />
+      <item value="name" />
+      <item value="convert Operate Log Type" />
+      <item value="status Duration Time" />
+      <item value="Mag Obj Status Cls" />
+      <item value="status End Time" />
+      <item value="Dat Manobj Rundetatil" />
+      <item value="get Man Obj Rundetail List By Status" />
+      <item value="Last" />
+      <item value="get Start Time Last" />
+      <item value="get Start Time Last By Status" />
+      <item value="日期区间内" />
+      <item value="duration" />
+      <item value="status Start Time" />
+      <item value="duration Start Time" />
+      <item value="Start Time" />
+      <item value="running Start Time" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2317" />
+        <entry key="ENGLISH" value="2174" />
+        <entry key="ALBANIAN" value="1" />
+        <entry key="AZERBAIJANI" value="1" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="ICELANDIC" value="3" />
+        <entry key="POLISH" value="2" />
+        <entry key="AFRIKAANS" value="5" />
+        <entry key="DANISH" value="11" />
+        <entry key="GERMAN" value="7" />
+        <entry key="FRENCH" value="3" />
+        <entry key="FILIPINO" value="6" />
+        <entry key="FINNISH" value="1" />
+        <entry key="DUTCH" value="6" />
+        <entry key="CZECH" value="6" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="25" />
+        <entry key="MARATHI" value="2" />
+        <entry key="HMONG" value="1" />
+        <entry key="NORWEGIAN" value="12" />
+        <entry key="PORTUGUESE" value="7" />
+        <entry key="JAPANESE" value="2" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SLOVAK" value="2" />
+        <entry key="TURKISH" value="2" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="10" />
+        <entry key="HINDI" value="47" />
+        <entry key="INDONESIAN" value="20" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1657614195057" />
+  </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft JhengHei UI" />
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="7b159198023f92a1" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
