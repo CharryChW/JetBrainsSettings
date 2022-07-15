@@ -4,12 +4,13 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="profiles" />
+      <item value="accepts Profiles" />
       <item value="Weight" />
       <item value="Repair Record Controller" />
       <item value="Spectrum" />
       <item value="com" />
       <item value="terms Of Service Url" />
-      <item value="accepts Profiles" />
       <item value="enable" />
       <item value="Error registering AppInfo mbean" />
       <item value="is ignored, because it exists, maybe from xml file" />
@@ -53,12 +54,11 @@
       <item value="日期区间内" />
       <item value="duration" />
       <item value="status Start Time" />
-      <item value="duration Start Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2317" />
-        <entry key="ENGLISH" value="2176" />
+        <entry key="ENGLISH" value="2182" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
