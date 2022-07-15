@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="on Run" />
+      <item value="synchronized" />
+      <item value="UPOBJSTATE" />
+      <item value="comp-start" />
+      <item value="vibrate" />
       <item value="month Health Report" />
       <item value="create Line Chart" />
       <item value="profiles" />
@@ -49,16 +54,11 @@
       <item value="Mag Obj Status Cls" />
       <item value="status End Time" />
       <item value="Dat Manobj Rundetatil" />
-      <item value="get Man Obj Rundetail List By Status" />
-      <item value="Last" />
-      <item value="get Start Time Last" />
-      <item value="get Start Time Last By Status" />
-      <item value="日期区间内" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2317" />
-        <entry key="ENGLISH" value="2184" />
+        <entry key="ENGLISH" value="2188" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -72,6 +72,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="CZECH" value="6" />
+        <entry key="CROATIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="25" />
         <entry key="MARATHI" value="2" />
