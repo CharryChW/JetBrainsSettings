@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Weight" />
       <item value="Repair Record Controller" />
       <item value="Spectrum" />
       <item value="com" />
@@ -53,12 +54,11 @@
       <item value="duration" />
       <item value="status Start Time" />
       <item value="duration Start Time" />
-      <item value="Start Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2317" />
-        <entry key="ENGLISH" value="2175" />
+        <entry key="ENGLISH" value="2176" />
         <entry key="ALBANIAN" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
